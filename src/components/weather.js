@@ -270,13 +270,13 @@ const Weather = () => {
         )}
 
         <SocialIcons>
-          <SocialIcon href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+          <SocialIcon href="https://www.instagram.com/aditya__rajput002" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </SocialIcon>
-          <SocialIcon href="https://www.github.com" target="_blank" rel="noopener noreferrer">
+          <SocialIcon href="https://www.github.com/adityasingh-ops" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </SocialIcon>
-          <SocialIcon href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+          <SocialIcon href="https://www.linkedin.com/in/aditya-singh-9901a3286/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </SocialIcon>
         </SocialIcons>
